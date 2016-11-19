@@ -25,7 +25,7 @@ SECRET_KEY = 'q(5h3h7+!#q%#p*hu&tz*-qf)d83^t&*3=&%84hh+lklrg8*m6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['amantus.pythonanywhere.com']
 
 
 # Application definition
